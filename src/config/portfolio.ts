@@ -365,7 +365,7 @@ export const portfolioConfig: PortfolioConfig = {
         title: "Frontend",
         skills: [
           { name: "React", level: 60 },
-          { name: "TypeScript", level: 20 },
+          { name: "TypeScript", level: 30 },
           { name: "Node.js", level: 50 },
           { name: "Bootstrap", level: 60 },
           { name: "Tailwind CSS", level: 30 }
@@ -375,7 +375,7 @@ export const portfolioConfig: PortfolioConfig = {
         title: "Backend",
         skills: [
           { name: "Java", level: 90 },
-          { name: "Node.js", level: 60 },
+          { name: "Node.js", level: 50 },
           { name: "Python", level: 40 },
           { name: "PostgreSQL", level: 70 },
           { name: "MongoDB", level: 50 }
