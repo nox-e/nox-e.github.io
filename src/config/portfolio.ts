@@ -147,11 +147,11 @@ const content = {
         {
           title: "Backend",
           skills: [
-            { name: "Node.js", level: 88 },
-            { name: "Python", level: 82 },
+            { name: "Java", level: 90 },
+            { name: "Python", level: 30 },
             { name: "PostgreSQL", level: 85 },
-            { name: "MongoDB", level: 80 },
-            { name: "GraphQL", level: 78 }
+            { name: "MongoDB", level: 60 },
+            { name: "Node.js", level: 30 }
           ]
         },
         {
@@ -178,8 +178,8 @@ const content = {
   },
   es: {
     personal: {
-      name: "Joane Smith",
-      title: "Ingeniera de Software",
+      name: "Sebastián Quero",
+      title: "Desarrollador full stack",
       subtitle: "Construyendo soluciones elegantes con tecnologías modernas",
       greeting: "Hola, soy",
       profilePhoto: "/profile-photo.png",
@@ -191,7 +191,7 @@ const content = {
       highlights: [
         {
           icon: "Code2",
-          title: "5+ Años",
+          title: "2+ Años",
           description: "Experiencia Profesional"
         },
         {
@@ -285,8 +285,8 @@ const content = {
 
 export const portfolioConfig: PortfolioConfig = {
   personal: {
-    name: "Joane Smith",
-    title: "Software Engineer",
+    name: "Sebastián Quero",
+    title: "Full stack developer",
     subtitle: "Building elegant solutions with modern technologies",
     greeting: "Hello, I'm",
     profilePhoto: "/profile-photo.png",
