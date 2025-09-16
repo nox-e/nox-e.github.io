@@ -73,8 +73,8 @@ export interface PortfolioConfig {
 const content = {
   en: {
     personal: {
-      name: "Joane Smith",
-      title: "Software Engineer",
+      name: "Sebastián Quero",
+      title: "Full stack developer",
       subtitle: "Building elegant solutions with modern technologies",
       greeting: "Hello, I'm",
       profilePhoto: "/profile-photo.png",
@@ -86,12 +86,12 @@ const content = {
       highlights: [
         {
           icon: "Code2",
-          title: "5+ Years",
+          title: "2+ Years",
           description: "Professional Experience"
         },
         {
           icon: "Users",
-          title: "20+ Projects",
+          title: "27+ Projects",
           description: "Successfully Delivered"
         },
         {
