@@ -137,11 +137,11 @@ const content = {
         {
           title: "Frontend",
           skills: [
-            { name: "React", level: 95 },
-            { name: "TypeScript", level: 90 },
-            { name: "Next.js", level: 85 },
-            { name: "Tailwind CSS", level: 88 },
-            { name: "Vue.js", level: 75 }
+            { name: "HTML", level: 90 },
+            { name: "CSS", level: 75 },
+            { name: "Bootstrap", level: 50 },
+            { name: "Tailwind CSS", level: 30 },
+            { name: "React", level: 35 }
           ]
         },
         {
@@ -151,17 +151,17 @@ const content = {
             { name: "Python", level: 30 },
             { name: "PostgreSQL", level: 85 },
             { name: "MongoDB", level: 60 },
-            { name: "Node.js", level: 30 }
+            { name: "PHP", level: 80 }
           ]
         },
         {
           title: "Tools & Others",
           skills: [
-            { name: "AWS", level: 85 },
-            { name: "Docker", level: 82 },
             { name: "Git", level: 92 },
-            { name: "Jest", level: 88 },
-            { name: "Figma", level: 75 }
+            { name: "Github", level: 80 },
+            { name: "Canva", level: 92 },
+            { name: "Excel", level: 60 },
+            { name: "Filezilla", level: 80 }
           ]
         }
       ],
@@ -242,31 +242,31 @@ const content = {
         {
           title: "Frontend",
           skills: [
-            { name: "React", level: 95 },
-            { name: "TypeScript", level: 90 },
-            { name: "Next.js", level: 85 },
-            { name: "Tailwind CSS", level: 88 },
-            { name: "Vue.js", level: 75 }
+            { name: "HTML", level: 90 },
+            { name: "CSS", level: 75 },
+            { name: "Bootstrap", level: 50 },
+            { name: "Tailwind CSS", level: 30 },
+            { name: "React", level: 40 }
           ]
         },
         {
           title: "Backend",
           skills: [
-            { name: "Node.js", level: 88 },
-            { name: "Python", level: 82 },
-            { name: "PostgreSQL", level: 85 },
-            { name: "MongoDB", level: 80 },
-            { name: "GraphQL", level: 78 }
+            { name: "Java", level: 80 },
+            { name: "Python", level: 30 },
+            { name: "PostgreSQL", level: 73 },
+            { name: "MongoDB", level: 60 },
+            { name: "PHP", level: 80 }
           ]
         },
         {
-          title: "Herramientas y Otros",
+          title: "Tools & Others",
           skills: [
-            { name: "AWS", level: 85 },
-            { name: "Docker", level: 82 },
             { name: "Git", level: 92 },
-            { name: "Jest", level: 88 },
-            { name: "Figma", level: 75 }
+            { name: "Github", level: 80 },
+            { name: "Canva", level: 92 },
+            { name: "Excel", level: 60 },
+            { name: "Filezilla", level: 80 }
           ]
         }
       ],
