@@ -186,7 +186,7 @@ const content = {
       cvUrl: "/path-to-cv.pdf"
     },
     about: {
-      description: "Soy una ingeniera de software apasionada con más de 5 años de experiencia construyendo aplicaciones web y soluciones digitales. Me especializo en React, TypeScript y tecnologías web modernas, con un enfoque en crear aplicaciones amigables, escalables y mantenibles.",
+      description: "Soy un ingeniero de software apasionado con más de 2 años de experiencia construyendo aplicaciones web y soluciones digitales. Me especializo en React, TypeScript y tecnologías web modernas, con un enfoque en crear aplicaciones amigables, escalables y mantenibles.",
       experience: "Mi viaje en el desarrollo de software comenzó con la curiosidad sobre cómo funcionan las cosas detrás de escena. Hoy, ayudo a las empresas a transformar sus ideas en realidad digital, trabajando con equipos multifuncionales para entregar soluciones de software de alta calidad.",
       highlights: [
         {
@@ -276,9 +276,9 @@ const content = {
       ]
     },
     meta: {
-      title: "Joane Smith - Ingeniera de Software",
-      description: "Portfolio personal de Joane Smith, una ingeniera de software especializada en React, TypeScript y tecnologías web modernas.",
-      keywords: ["ingeniera de software", "react", "typescript", "desarrollo web", "portfolio"]
+      title: "Sebastián Quero - Ingeniera de Software",
+      description: "Portfolio personal de Sebastián Quero, un ingeniero de software especializado en React, TypeScript y tecnologías web modernas.",
+      keywords: ["ingeniero de software", "react", "typescript", "desarrollo web", "portfolio"]
     }
   }
 };
@@ -294,14 +294,12 @@ export const portfolioConfig: PortfolioConfig = {
   },
 
   contact: {
-    email: "joane.smith@example.com",
-    phone: "+1 (555) 123-4567",
-    location: "San Francisco, CA",
+    email: "s.quero.s@pm.me",
+    phone: "+(56) 9 2397 5280",
+    location: "Santiago, Chile",
     social: {
       github: "https://github.com/nox-e",
       linkedin: "https://linkedin.com/in/sebastianquero",
-      twitter: "https://twitter.com/joanesmith",
-      instagram: "https://instagram.com/joanesmith"
     }
   },
 
