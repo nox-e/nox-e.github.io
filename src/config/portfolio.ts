@@ -298,8 +298,8 @@ export const portfolioConfig: PortfolioConfig = {
     phone: "+1 (555) 123-4567",
     location: "San Francisco, CA",
     social: {
-      github: "https://github.com/joanesmith",
-      linkedin: "https://linkedin.com/in/joanesmith",
+      github: "https://github.com/nox-e",
+      linkedin: "https://linkedin.com/in/sebastianquero",
       twitter: "https://twitter.com/joanesmith",
       instagram: "https://instagram.com/joanesmith"
     }
@@ -364,31 +364,31 @@ export const portfolioConfig: PortfolioConfig = {
       {
         title: "Frontend",
         skills: [
-          { name: "React", level: 95 },
-          { name: "TypeScript", level: 90 },
-          { name: "Next.js", level: 85 },
-          { name: "Tailwind CSS", level: 88 },
-          { name: "Vue.js", level: 75 }
+          { name: "React", level: 60 },
+          { name: "TypeScript", level: 20 },
+          { name: "Node.js", level: 50 },
+          { name: "Bootstrap", level: 60 },
+          { name: "Tailwind CSS", level: 30 }
         ]
       },
       {
         title: "Backend",
         skills: [
-          { name: "Node.js", level: 88 },
-          { name: "Python", level: 82 },
-          { name: "PostgreSQL", level: 85 },
-          { name: "MongoDB", level: 80 },
-          { name: "GraphQL", level: 78 }
+          { name: "Java", level: 90 },
+          { name: "Node.js", level: 60 },
+          { name: "Python", level: 40 },
+          { name: "PostgreSQL", level: 70 },
+          { name: "MongoDB", level: 50 }
         ]
       },
       {
         title: "Tools & Others",
         skills: [
-          { name: "AWS", level: 85 },
-          { name: "Docker", level: 82 },
-          { name: "Git", level: 92 },
-          { name: "Jest", level: 88 },
-          { name: "Figma", level: 75 }
+          { name: "Git", level: 90 },
+          { name: "Figma", level: 40 },
+          { name: "Canva", level: 90 },
+          { name: "Linux", level: 90 },
+          { name: "Excel", level: 50 }
         ]
       }
     ],
@@ -404,7 +404,7 @@ export const portfolioConfig: PortfolioConfig = {
   },
 
   meta: {
-    title: "Joane Smith - Software Engineer",
+    title: "Sebastian Quero - Full stack developer",
     description: "Personal portfolio of Joane Smith, a software engineer specializing in React, TypeScript, and modern web technologies.",
     keywords: ["software engineer", "react", "typescript", "web development", "portfolio"]
   }
